@@ -18,5 +18,17 @@
   "_id" : 79,
   "name" : "ETF Brokerage Account",
   "safeName" : "ETF_Brokerage_Account"
-} 
+}, {
+  "_id" : 3,
+  "name" : "Gold Bullion",
+  "safeName" : "Gold_Bullion_Exchange"
+}, {
+  "_id" : 4,
+  "name" : "Silver"
+  "safeName" : "Silver_Metal"
+}, {
+  "_id" : 5,
+  "name" : "Test Record",
+  "safeName" : "Test_Record"
+}
 ]
