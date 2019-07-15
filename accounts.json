@@ -1,33 +1,33 @@
 {
-  "_id" : 2,
+  "id" : 2,
   "name" : "Woodgrove Investments",
   "safeName" : "Woodgrove_Investments"
 }, {
-  "_id" : 19,
+  "id" : 19,
   "name" : "Primary Residence",
   "safeName" : "Primary_Residence"
 }, {
-  "_id" : 26,
+  "id" : 26,
   "name" : "Investments to Watch",
   "safeName" : "Investments_to_Watch"
 }, {
-  "_id" : 77,
+  "id" : 77,
   "name" : "Commodities",
   "safeName" : "Commodities"
 }, {
-  "_id" : 79,
+  "id" : 79,
   "name" : "ETF Brokerage Account",
   "safeName" : "ETF_Brokerage_Account"
 }, {
-  "_id" : 3,
+  "id" : 3,
   "name" : "Gold Bullion",
   "safeName" : "Gold_Bullion_Exchange"
 }, {
-  "_id" : 4,
+  "id" : 4,
   "name" : "Silver"
   "safeName" : "Silver_Metal"
 }, {
-  "_id" : 5,
+  "id" : 5,
   "name" : "Test Record",
   "safeName" : "Test_Record"
 }
