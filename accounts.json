@@ -1,4 +1,4 @@
-[ {
+{
   "_id" : 2,
   "name" : "Woodgrove Investments",
   "safeName" : "Woodgrove_Investments"
@@ -31,4 +31,3 @@
   "name" : "Test Record",
   "safeName" : "Test_Record"
 }
-]
